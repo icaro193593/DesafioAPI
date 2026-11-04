@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "DesafioAPI",
+    "slug": "desafioapi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "desafioapi",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
